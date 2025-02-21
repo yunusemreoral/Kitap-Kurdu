@@ -4,6 +4,7 @@
 <li>Kullanıcı dostu responsive tasarımı mevcuttur.</li>
 
 # Kullanılan Teknolojiler 🎨
+<ul>
 <li>
 ⭐ React
 ⭐ Vite
@@ -11,7 +12,8 @@
 ⭐ Json-Server
 ⭐ Axios
 ⭐ API
-</li>
+</li></ul>
+  
 # Ekran Görüntüsü 🎥
 <img src="kitap.gif" width="auto">      
 
