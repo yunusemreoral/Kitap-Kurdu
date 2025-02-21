@@ -5,12 +5,12 @@
 
 # Kullanılan Teknolojiler 🎨
 
-⭐ <li>React</li>
-⭐ <li>Vite</li>
-⭐ <li>Bootstrap</li>
-⭐ <li>Json-Server</li>
-⭐ <li>Axios</li>
-⭐ <li>API</li>
+⭐ React
+⭐ Vite
+⭐ Bootstrap
+⭐ Json-Server
+⭐ Axios
+⭐ API
 
 # Ekran Görüntüsü 🎥
 <img src="kitap.gif" width="auto">      
